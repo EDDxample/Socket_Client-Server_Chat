@@ -1,6 +1,6 @@
 # Socket Client/Server Chat
 
-## Usage:
+## Usage
 - **Client**: ``python client.py <username> <host> <port>`` (example: "python client.py EDDxample localhost 8000")
 - **Server**: ``python server.py <host> <port>`` (example: "python server.py localhost 8000")
 
