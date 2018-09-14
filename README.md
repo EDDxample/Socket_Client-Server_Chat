@@ -6,8 +6,8 @@
 
 ## Example
 [[example pic]](pic.jpg)
-- C1 connects to the server
-- C2 connects to the server
-- C1 talks
-- C2 talks
-- C2 disconnects
+1. C1 connects to the server
+2. C2 connects to the server
+3. C1 talks
+4. C2 talks
+5. C2 disconnects
