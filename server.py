@@ -81,5 +81,5 @@ else:
 
     except KeyboardInterrupt:
         sys.exit(0)
-    # except:
-    #     print('[ERROR] Server closed.')
+    except:
+        print('[ERROR] Server closed.')
