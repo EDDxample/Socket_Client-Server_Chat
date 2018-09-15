@@ -4,10 +4,6 @@ import threading
 
 
 class User:
-    username = None
-    connection = None
-    address = None  # (host, port)
-    prefix = None
 
     def __init__(self, n, c, a):
         self.username = n
